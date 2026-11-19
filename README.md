@@ -18,8 +18,7 @@ This interactive (Google) map shows you the location of current working GTA V gl
 ## License
 
 [WTFPL](LICENSE)
-
-## Version
+lVersion
 
 1.0
 
